@@ -1,9 +1,16 @@
-# Dependencies
-.psci_modules
-.spago
-bower_components
-node_modules
+# Dependency directories
+node_modules/
 
-# Generated files
-.psci
-output
+# Playwright execution outputs
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Local environment variables and credentials
+.env
+.env.local
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
