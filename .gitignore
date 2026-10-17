@@ -1,16 +1,33 @@
-# Dependency directories
-node_modules/
+# =========================================================================
+# SYSTEM & ENVIRONMENT LOCKDOWN
+# =========================================================================
+.env
+.env.local
+.env.production
+.data/
+secrets.json
 
-# Playwright execution outputs
+# =========================================================================
+# TESTING RUNTIME ARTIFACTS (PLAYWRIGHT)
+# =========================================================================
 test-results/
 playwright-report/
 blob-report/
-playwright/.cache/
+.pytest_cache/
+htmlreport/
 
-# Local environment variables and credentials
-.env
-.env.local
+# =========================================================================
+# APPLICATION DEPENDENCY MATRIX
+# =========================================================================
+node_modules/
+/dist
+/build
+package-lock.json
 
-# Operating System temporary files
+# =========================================================================
+# OS DESKTOP CACHE CACHING
+# =========================================================================
 .DS_Store
 Thumbs.db
+*.log
+.vscode/
