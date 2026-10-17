@@ -1,29 +1,34 @@
-# 🎭 Playwright QA Automation Framework
+<h1>🎭 Playwright QA Automation Framework</h1>
 
-<p>
-  <img src="https://shields.io" alt="Playwright" />
-  <img src="https://shields.io" alt="License" />
-  <img src="https://shields.io" alt="Build Status" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://shields.io" alt="Playwright" /></td>
+    <td><img src="https://shields.io" alt="License" /></td>
+    <td><img src="https://shields.io" alt="Build Status" /></td>
+  </tr>
+</table>
 
-A professional, production-ready QA Automation framework built with **Playwright**.
+<p>A professional, production-ready QA Automation framework built with <strong>Playwright</strong>.</p>
 
-## 🚀 Tech Badges
+<h2>🚀 Tech Badges</h2>
 
-<p>
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://shields.io" alt="JavaScript" /></td>
+    <td><img src="https://shields.io" alt="NodeJS" /></td>
+    <td><img src="https://shields.io" alt="Git" /></td>
+  </tr>
+</table>
 
-## 🛠️ Setup & Installation
+<h2>🛠️ Setup & Installation</h2>
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+<ol>
+  <li>
+    <strong>Clone the repository:</strong>
+    <pre><code>git clone https://github.com</code></pre>
+  </li>
+  <li>
+    <strong>Install dependencies:</strong>
+    <pre><code>npm install</code></pre>
+  </li>
+</ol>
