@@ -1,34 +1,42 @@
-<h1>🎭 Playwright QA Automation Framework</h1>
+<div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://shields.io" alt="Playwright" /></td>
-    <td><img src="https://shields.io" alt="License" /></td>
-    <td><img src="https://shields.io" alt="Build Status" /></td>
-  </tr>
-</table>
+# 🎭 Playwright QA Automation Framework
 
-<p>A professional, production-ready QA Automation framework built with <strong>Playwright</strong>.</p>
+A professional QA automation framework built with **Playwright**.
 
-<h2>🚀 Tech Badges</h2>
+![Playwright](https://img.shields.io/badge/Playwright-1f6feb?style=for-the-badge&logo=playwright&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-1f6feb?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-Automated-1f6feb?style=for-the-badge)
 
-<table>
-  <tr>
-    <td><img src="https://shields.io" alt="JavaScript" /></td>
-    <td><img src="https://shields.io" alt="NodeJS" /></td>
-    <td><img src="https://shields.io" alt="Git" /></td>
-  </tr>
-</table>
+</div>
 
-<h2>🛠️ Setup & Installation</h2>
+---
 
-<ol>
-  <li>
-    <strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com</code></pre>
-  </li>
-  <li>
-    <strong>Install dependencies:</strong>
-    <pre><code>npm install</code></pre>
-  </li>
-</ol>
+## 🔷 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1f6feb?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1f6feb?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f6feb?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🔷 Setup & Installation
+
+1. 🔹 **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/htriki044-debug/qa-automaion-bug.git
+   cd qa-automaion-bug
+   ```
+
+2. 🔹 **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+---
+
+## 🔷 License
+
+This project is released under the [MIT License](LICENSE).
