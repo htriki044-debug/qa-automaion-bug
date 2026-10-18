@@ -4,9 +4,9 @@
 
 A professional QA automation framework built with **Playwright**.
 
-![Playwright](.github/badges/playwright.svg)
-![License](.github/badges/license.svg)
-![Tests](.github/badges/tests.svg)
+![Playwright](.github/images/playwright.svg)
+![License](.github/images/license.svg)
+![Tests](.github/images/tests.svg)
 
 </div>
 
@@ -14,9 +14,9 @@ A professional QA automation framework built with **Playwright**.
 
 ## 🔷 Tech Stack
 
-![JavaScript](.github/badges/javascript.svg)
-![Node.js](.github/badges/nodejs.svg)
-![Git](.github/badges/git.svg)
+![JavaScript](.github/images/javascript.svg)
+![Node.js](.github/images/nodejs.svg)
+![Git](.github/images/git.svg)
 
 ---
 
